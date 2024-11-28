@@ -1,5 +1,5 @@
 Stock Movement Analysis Based on Social Media Sentiment
-This repository provides a comprehensive analysis of stock price movements based on sentiment extracted from Reddit discussions. Using advanced natural language processing techniques, the project combines sentiment analysis with stock market data to predict stock price trends and movement directions.
+This repository comprehensively analyzes stock price movements based on sentiment extracted from Reddit discussions. Using advanced natural language processing techniques, the project combines sentiment analysis with stock market data to predict stock price trends and movement directions.
 
 Project Structure
 reddit_stock_raw.csv
