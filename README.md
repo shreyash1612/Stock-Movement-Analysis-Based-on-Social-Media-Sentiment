@@ -54,7 +54,7 @@ Clone this GitHub repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/Stock-Movement-Analysis-Based-on-Social-Media-Sentiment.git
+git clone
 cd Stock-Movement-Analysis-Based-on-Social-Media-Sentiment
 Prepare NLTK Data
 The script automatically downloads the VADER lexicon during runtime. Ensure you have an active internet connection.
